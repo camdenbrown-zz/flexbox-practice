@@ -1,0 +1,11 @@
+/* Your code goes here */
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  border: 1px solid #fff;
+  justify-content: space-around;
+}
+
+.container div {
+  float: right;
+}
